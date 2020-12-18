@@ -1,0 +1,259 @@
+/*WEB.html*/
+.headerWEB{display: inline;
+}
+.Catálogo{padding-left: 13%;
+    color: purple;
+    font-size: 270%;
+}
+.novedades-texto{color: purple;}
+.descuentos-texto{color: purple;}
+.proximos-lanzamientos-texto{color: purple;}
+.plataformas-texto{color: purple;
+}
+.bgWEB{background-image: url(https://i.imgur.com/t1TT0On.jpg);
+}
+/*Novedades.html*/
+.textoNovedades{color: rgb(79, 153, 199);
+    font-size: 250%;
+}
+.NewNAME_1{color:  rgb(79, 153, 199);
+}
+.NewNAME_2{color:  rgb(79, 153, 199);
+}
+.NewNAME_3{color:  rgb(79, 153, 199);
+}
+.NewNAME_4{color:  rgb(79, 153, 199);
+}
+.NewNAME_5{color:  rgb(79, 153, 199);
+}
+.NewNAME_6{color:  rgb(79, 153, 199);
+}
+.bgNovedades{background-image: url(https://media1.tenor.com/images/9eec7bad1c0d5628bd43ce43f0043837/tenor.gif?itemid=9684551);
+}
+/*Plataformas*/
+.bgPLAT{background-image: url(https://media1.tenor.com/images/4c118169f2bfa4cb4aa38d9142bc75bc/tenor.gif?itemid=7831590);
+}
+/*Descuentos.html*/
+.textoDescuentos{color: yellow;
+}
+.DiscountNAME_1{color: yellow;
+}
+.DiscountNAME_2{color: yellow;
+}
+.DiscountNAME_3{color: yellow;
+}
+.DiscountNAME_4{color: yellow;
+}
+.DiscountNAME_5{color: yellow;
+}
+.DiscountNAME_6{color: yellow;
+}
+.DiscountNAME_7{color: yellow;
+}
+.DiscountNAME_8{color: yellow;
+}
+.bgDescuento{background-image: url(https://c.tenor.com/1FWdDtP__RoAAAAj/ofertas-compras-compras.gif);
+}
+/*Próximos-Lanzamientos.html*/
+.textoPróximosLanzamientos{color: red;
+}
+.ProximoNAME_1{color: red;
+}
+.ProximoNAME_2{color: red;
+}
+.ProximoNAME_3{color: red;
+}
+.ProximoNAME_4{color: red;
+}
+.ProximoNAME_5{color: red;
+}
+.ProximoNAME_6{color: red;
+}
+.bgPL{background-image: url(https://media1.tenor.com/images/1ad71f8731e19272055f43959368626c/tenor.gif?itemid=13203805);
+}
+/*Categorías.html*/
+.PC_CATEGORY{color: rgb(211, 113, 21);
+}
+.PS4_CATEGORY{color: blue;
+}
+.PS5_CATEGORY{color: rgb(255, 255, 255);
+}
+.Xbox_CATEGORY{color: rgb(11, 94, 11);
+}
+/*PC.html*/
+.textoPC{color: rgb(211, 113, 21);
+    font-size: 250%;
+}
+.PCNAME_1{color: coral;
+    font-weight: bold;
+}
+.PCNAME_2{color: coral;
+    font-weight: bold;
+}
+.PCNAME_3{color: coral;
+    font-weight: bold;
+}
+.PCNAME_4{color: coral;
+    font-weight: bold;
+}
+.PCNAME_5{color: coral;
+    font-weight: bold;
+}
+.PCNAME_6{color: coral;
+    font-weight: bold;
+}
+.PCNAME_7{color: coral;
+    font-weight: bold;
+}
+.PCNAME_8{color: coral;
+    font-weight: bold;
+}
+.PCNAME_9{color: coral;
+    font-weight: bold;
+}
+.PCNAME_10{color: coral;
+    font-weight: bold;
+}
+.PCNAME_11{color: coral;
+    font-weight: bold;
+}
+.PCNAME_12{color: coral;
+    font-weight: bold;
+}
+.PCNAME_13{color: coral;
+    font-weight: bold;
+}
+.PCNAME_14{color: coral;
+    font-weight: bold;
+}
+.PCNAME_15{color: coral;
+    font-weight: bold;
+}
+.bgPC{background-image: url(https://media.tenor.com/images/57a66f64fb43014eb6ecb45897d7e5dd/tenor.gif);
+}
+/*PS4.html*/
+.textoPS4{color: blue;
+    font-size: 250%;
+}
+.PS4NAME_1{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_2{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_3{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_4{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_5{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_6{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_7{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_8{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_9{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_10{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_11{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_12{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_13{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_14{color: blue;
+    font-weight: bold;
+}
+.PS4NAME_15{color: blue;
+    font-weight: bold;
+}
+.bgPS4{background-image: url(https://media.tenor.com/images/3e9557bc55691a6bd9c59e8bdaf31689/tenor.gif);
+}
+/*PS5.html*/
+.textoPS5{color: rgb(255, 255, 255);
+    font-size: 250%;
+}
+.PS5NAME_1{color: white;
+    font-weight: bold;
+}
+.PS5NAME_2{color: white;
+    font-weight: bold;
+}
+.PS5NAME_3{color: white;
+    font-weight: bold;
+}
+.PS5NAME_4{color: white;
+    font-weight: bold;
+}
+.PS5NAME_5{color: white;
+    font-weight: bold;
+}
+.PS5NAME_6{color: white;
+    font-weight: bold;
+}
+.PS5NAME_7{color: white;
+    font-weight: bold;
+}
+.PS5NAME_8{color: white;
+    font-weight: bold;
+}
+.PS5NAME_9{color: white;
+    font-weight: bold;
+}
+.bgPS5{background-image: url(https://media1.tenor.com/images/9c44a38f1b483cc39f517d849477b141/tenor.gif?itemid=19237675);
+}
+/*Xbox.html*/
+.textoXbox{color: rgb(11, 94, 11);
+    font-size: 250%;
+}
+.XboxNAME_1{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_2{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_3{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_4{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_5{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_6{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_7{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.XboxNAME_8{color: rgb(11, 94, 11);
+    font-weight: bold;
+}
+.bgXbox{background-image: url(https://media.tenor.com/images/a023943b252cc86c7f3a1de7fe3fa47d/tenor.gif);
+}
+
+/*General*/
+body{background-color: #131313;
+    background-size: cover;
+}
+ol  {text-align: top;
+text-align: center;
+}
+li {display: inline-block;
+}
+figcaption {text-align: center;
+}
